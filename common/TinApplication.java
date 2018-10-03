@@ -1,4 +1,4 @@
-package com.z4yi.tinnews;
+package com.z4yi.tinnews.common;
 
 import android.app.Application;
 
